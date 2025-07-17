@@ -38,7 +38,7 @@ DataSet_Cartografiavisual/
 ├── data/
 │ ├── fonts.csv
 │ ├── fonts_award.csv
-│ └── users.csv
+│ └── custom.csv
 ├── queries/
 │ ├── 100awarded_typographies.sql
 │ ├── custom_client.sql
