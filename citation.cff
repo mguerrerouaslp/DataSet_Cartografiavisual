@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "DataSet - Cartografía Visual de la Tipografía Mexicana"
+authors:
+  - family-names: Guerrero
+    given-names: Manuel
+    affiliation: Universidad Autónoma de San Luis Potosí
+license: MIT
+repository-code: https://github.com/usuario/DataSet_Cartografiavisual
+date-released: 2025-07-17
+version: "1.0.0"
