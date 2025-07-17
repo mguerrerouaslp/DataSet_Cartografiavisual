@@ -42,7 +42,7 @@ DataSet_Cartografiavisual/
 |-----------------|-----------------------------------------------------------------------------|
 | `fonts.csv`     | Detalles de cada tipografía (nombre, año, clasificación, cliente, etc.).   |
 | `fonts_award.csv` | Información sobre los premios obtenidos (institución, categoría, año, etc.). |
-| `users.csv`     | Información básica de autoras/es tipográficos (nombre, género, ubicación). |
+| `clientes.csv`     | Información básica de cliente por cada tipografía.  |
 
 ---
 
