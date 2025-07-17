@@ -20,7 +20,8 @@ El dataset reúne información sobre:
 ---
 
 ## Estructura del Repositorio
-
+```
+.
 DataSet_Cartografiavisual/
 ├── data/
 │ ├── fonts.csv
@@ -32,7 +33,7 @@ DataSet_Cartografiavisual/
 │ └── tipos_premiadas.sql
 ├── LICENSE
 └── README.md
-
+```
 ---
 
 ## Contenido de los Datos
