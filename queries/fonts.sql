@@ -1,5 +1,5 @@
 -- Consulta para extraer información de las 100 tipografías seleccionadas
--- para el libro "100 Fuentes Tipográficas Premiadas: Cartografía Visual de la Tipografía Mexicana"
+-- para el libro "Cartografía Visual de la Tipografía Mexicana: 100 Fuentes Tipográficas Premiadas"
 
 SELECT
     fonts.id AS 'ID',
