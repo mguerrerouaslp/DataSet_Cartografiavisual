@@ -52,7 +52,7 @@ DataSet_Cartografiavisual/
 
 | Archivo CSV                                   | Descripción                                                                 |
 |----------------------------------------------|-----------------------------------------------------------------------------|
-| [`fonts.csv`](data/fonts.csv)                | Detalles de cada tipografía (nombre de la imagen, año, tipografía y créditos).   |
+| [`fonts.csv`](data/fonts.csv)                | Detalles de cada tipografía (nombre de la imagen, año, tipografía, créditos...).   |
 | [`fonts_award.csv`](data/fonts_award.csv)    | Información sobre los premios obtenidos por cada fuente tipográfica |
 | [`custom.csv`](data/custom.csv)          | Información básica del cliente asociado a cada tipografía seleccionada.    |
 
@@ -63,19 +63,22 @@ DataSet_Cartografiavisual/
 
 Las siguientes consultas SQL permiten reproducir los análisis incluidos en el libro:
 
-### Tipografías seleccionadas
-
-**[`fonts_award.sql`](queries/fonts_award.sql)**  
-Consulta que extrae la información detallada de las 100 tipografías seleccionadas para el libro, incluyendo nombre, año de registro, créditos, distribución, clasificación, etc.
-
----
-
 ### Premios y reconocimientos
 
 **[`fonts.sql`](queries/fonts.sql)**  
+Consulta que extrae la información detallada de las 100 tipografías seleccionadas para el libro, incluyendo nombre, año de registro, créditos, distribución, clasificación, etc.
+
+
+---
+
+
+### Tipografías seleccionadas
+
+**[`fonts_award.sql`](queries/fonts_award.sql)**  
 Agrupa los premios obtenidos por cada tipografía de la muestra, indicando institución y año en una sola línea por tipografía.
 
 ---
+
 
 ### Clientes por tipografía
 
