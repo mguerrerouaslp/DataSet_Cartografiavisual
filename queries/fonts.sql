@@ -13,11 +13,9 @@ SELECT
     fonts.vars_name AS 'Familia(s)',
     fonts.format AS 'Formato',
     fonts.vars_num AS 'Estilos',
-    fonts.lang AS 'Lenguajes',
-    fonts.num_characters AS 'Glifos',
+    fonts.num_characters AS 'Caracteres',
     fonts.type AS 'Set',
-    fonts.studio AS 'Estudio',
-    fonts.publisher AS 'Fundidora',
+    CONCAT(fonts.studio, '  ', fonts.publisher) AS `Estudio/Fundidora`,
     fonts.url AS 'Enlace'
 FROM
     fonts
