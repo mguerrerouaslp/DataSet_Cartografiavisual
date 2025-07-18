@@ -65,21 +65,21 @@ Las siguientes consultas SQL permiten reproducir los análisis incluidos en el l
 
 ### Tipografías seleccionadas
 
-**[`tipos_premiadas.sql`](queries/tipos_premiadas.sql)**  
-Consulta que extrae la información detallada de las 100 tipografías seleccionadas para el libro, incluyendo nombre, año de registro, créditos, distribución, clasificación, número de glifos, etc.
+**[`fonts_award.sql`](queries/fonts_award.sql)**  
+Consulta que extrae la información detallada de las 100 tipografías seleccionadas para el libro, incluyendo nombre, año de registro, créditos, distribución, clasificación, etc.
 
 ---
 
 ### Premios y reconocimientos
 
-**[`100awarded_typographies.sql`](queries/100awarded_typographies.sql)**  
+**[`fonts.sql`](queries/fonts.sql)**  
 Agrupa los premios obtenidos por cada tipografía de la muestra, indicando institución y año en una sola línea por tipografía.
 
 ---
 
 ### Clientes por tipografía
 
-**[`custom_client.sql`](queries/custom_client.sql)**  
+**[`custom.sql`](queries/custom.sql)**  
 Consulta que relaciona cada una de las 100 tipografías seleccionadas con su cliente principal (institución, marca o encargo), útil para estudios de encargo tipográfico en México.
 
 ---
