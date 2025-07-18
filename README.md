@@ -1,6 +1,6 @@
 # DataSet_Cartografiavisual
 Este repositorio contiene el dataset utilizado en la creación del libro  
-**"100 Fuentes Tipográficas Premiadas: Cartografía Visual de la Tipografía Mexicana"**  
+**"Cartografía Visual de la Tipografía Mexicana: 100 Fuentes Tipográficas Premiadas"**  
 Autor: **Manuel Guerrero**  
 Institución: **Universidad Autónoma de San Luis Potosí (UASLP)**
 
@@ -10,7 +10,7 @@ Institución: **Universidad Autónoma de San Luis Potosí (UASLP)**
 
 La tipografía mexicana ha experimentado un crecimiento notable en las últimas décadas, consolidándose como una disciplina con identidad propia dentro del diseño gráfico contemporáneo. En este contexto, el reconocimiento nacional e internacional de fuentes tipográficas diseñadas en México ha puesto de relieve la calidad de las y los diseñadores tipográficos del país.
 
-**100 Fuentes Tipográficas Premiadas: Cartografía Visual de la Tipografía Mexicana** surge como una respuesta a la necesidad de documentar, analizar y difundir este patrimonio emergente desde una perspectiva visual y cronológica.
+**Cartografía Visual de la Tipografía Mexicana: 100 Fuentes Tipográficas Premiadas** surge como una respuesta a la necesidad de documentar, analizar y difundir este patrimonio emergente desde una perspectiva visual y cronológica.
 
 Este libro se propone como una herramienta de consulta especializada y como una cartografía visual que permite rastrear las dinámicas, trayectorias y protagonistas del diseño tipográfico mexicano galardonado de 1999 a 2024. El lector encontrará aquí una estructura clara y articulada en cinco apartados fundamentales: una cronología de premios que sitúa en el tiempo los hitos del reconocimiento tipográfico; una serie de fichas documentales que presentan de manera visual a las 100 fuentes premiadas; un apartado que distingue entre premios internacionales y nacionales, permitiendo contrastar los contextos de validación; un conjunto de reseñas de autoras y autores; y finalmente, índices especializados que facilitan la búsqueda y clasificación de las tipografías según distintos criterios.
 
