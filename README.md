@@ -40,9 +40,9 @@ DataSet_Cartografiavisual/
 │ ├── fonts_award.csv
 │ └── custom.csv
 ├── queries/
+│ ├── fonts.sql
 │ ├── fonts_award.sql
-│ ├── custom.sql
-│ └── fonts.sql
+│ └── custom.sql
 ├── LICENSE
 └── README.md
 ```
