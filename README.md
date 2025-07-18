@@ -53,7 +53,7 @@ DataSet_Cartografiavisual/
 | Archivo CSV                                   | Descripción                                                                 |
 |----------------------------------------------|-----------------------------------------------------------------------------|
 | [`fonts.csv`](data/fonts.csv)                | Detalles de cada tipografía (nombre, año, clasificación, cliente, etc.).   |
-| [`fonts_award.csv`](data/fonts_award.csv)    | Información sobre los premios obtenidos (institución, categoría, año, etc.). |
+| [`fonts_award.csv`](data/fonts_award.csv)    | Información sobre los premios obtenidos por cada fuente tipográfica |
 | [`custom.csv`](data/custom.csv)          | Información básica del cliente asociado a cada tipografía seleccionada.    |
 
 
