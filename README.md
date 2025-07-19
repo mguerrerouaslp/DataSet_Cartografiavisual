@@ -20,7 +20,7 @@ Este trabajo no solo busca reconocer los logros obtenidos, sino también abrir n
 
 —
 
-El dataset de este repositorio forma parte del trabajo de investigación y documentación descrito anteriormente, con el objetivo de mapear, analizar y visibilizar la producción tipográfica mexicana reconocida entre los años 1999 y 2025.
+El dataset de este repositorio forma parte del trabajo de investigación y documentación descrito anteriormente, con el objetivo de mapear, analizar y visibilizar la producción tipográfica mexicana reconocida entre los años 1995 y 2025.
 
 Incluye información sobre:
 
