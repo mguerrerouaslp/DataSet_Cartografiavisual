@@ -1,0 +1,41 @@
+{
+  "upload_type": "dataset",
+  "publication_type": "dataset",
+  "title": "DataSet – Cartografía Visual de la Tipografía Mexicana (2000‑2025)",
+  "description": "Repositorio de datos abierto que acompaña el libro *Cartografía Visual de la Tipografía Mexicana: 100 Tipografías Premiadas* (UASLP, 2025). Contiene tablas CSV normalizadas sobre premios, diseñadores, fundidoras y metadatos de cada tipografía.\n\n**Estructura del dataset**\n- `fonts.csv`: detalles de 100 tipografías premiadas.\n- `fonts_awards.csv`: información de premios (institución, año, categoría).\n- `designers.csv`: datos básicos de los diseñadores.\n\n**Metodología**: recopilación exhaustiva (2000‑2025) a partir de catálogos, repositorios académicos y bases de premios internacionales, normalizada con scripts en Python (incluidos en `/scripts`).\n\n**Uso**: investigación histórica, análisis de tendencias, docencia en tipografía y diseño gráfico.",
+  "creators": [
+    {
+      "name": "Guerrero‑Salinas, Manuel",
+      "affiliation": "Universidad Autónoma de San Luis Potosí",
+      "orcid": "0000-0001-8647-4538"
+    },
+    {
+      "name": "Mancilla González, Eréndida",
+      "affiliation": "Universidad Autónoma de San Luis Potosí",
+      "orcid": "0000-0002-0626-4440"
+    }
+  ],
+  "keywords": [
+    "typography",
+    "mapping",
+    "Mexico",
+    "dataset",
+    "awarded typefaces",
+    "design research"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "communities": [
+    { "identifier": "design-research" }   
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/mguerrerouaslp/DataSet_Cartografiavisual",
+      "scheme": "url"
+    }
+  ],
+  "access_right": "open",
+  "language": "spa",          
+  "notes": "Para citar este dataset use el DOI que Zenodo generará al crear el primer release."
+}
