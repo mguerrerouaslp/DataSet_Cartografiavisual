@@ -92,10 +92,12 @@ Este repositorio se distribuye bajo la [Licencia MIT](LICENSE), lo que permite s
 ## Cita sugerida
 
 ```bibtex
-@misc{guerrero2025dataset,
-  author = {Guerrero, Manuel},
-  title = {DataSet - Cartografía Visual de la Tipografía Mexicana},
-  year = {2025},
-  howpublished = {\url{https://github.com/[usuario]/DataSet_Cartografiavisual}},
-  note = {Universidad Autónoma de San Luis Potosí}
+@misc{guerrero_salinas_mancilla_gonzalez_2025_dataset,
+  author       = {Guerrero-Salinas, Manuel and Mancilla González, Eréndida},
+  title        = {{DataSet – Cartografía Visual de la Tipografía Mexicana}},
+  year         = {2025},
+  version      = {1.0.0},
+  howpublished = {GitHub repository},
+  url          = {https://github.com/mguerrerouaslp/DataSet_Cartografiavisual},
+  note         = {Universidad Autónoma de San Luis Potosí. MIT License}
 }
